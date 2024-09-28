@@ -1,0 +1,112 @@
+   <!DOCTYPE html>
+<html lang="fr">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/Style.css">
+    <title>Juan Carlos Sanchez CV</title>
+
+    <link rel="icon" type="Images/crystalb.gif" href="Images/crystalb.gif">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,900;1,900&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,600&display=swap" rel="stylesheet">
+
+
+</head>
+
+
+
+<body>
+
+    <div id="animated-cursor"></div>
+    
+    <header>
+
+        <div>
+            <a href="profilepic">
+            <img class="small-img" src="Images/catX.gif" alt="gato">
+            </a>
+        </div>
+
+        <h1 class="h1">JUAN CARLOS A. SANCHEZ</h1>
+        <p class="DESIGNER"> Designer UX/UI et Responsable de Projets Audiovisuels</p>
+       
+        <div class="title2"> 
+
+          <p class="Email">Email: juancarlos1ss@gmail.com | Phone: +33 0755406366</p>
+          <p class="des"> Designer et artiste, je suis multidisciplinaire dans les projets audiovisuels et expert en design UX/UI. Je recherche un poste où je pourrai allier créativité et expertise technique pour développer des expériences innovantes.  </p>
+        </div>
+
+    </header>
+
+
+    <div id="div"> 
+    <section>
+
+        <h2 id="title3">Formation</h2>
+        <ul id="lista">
+            <li><strong>2024:</strong> Cos Formation / Concepteur Designer UI </li>
+            <li><strong>2024:</strong> Formation Google UX / UI Design Professional </li>    
+            <li><strong>2017:</strong> Workshop / HTML5 CSS3</li>
+            <li><strong>2018 - 2021:</strong> Université Paris 8 / Master Media, Design et Art Contemporain - M1/M2 Master Écologie des arts et des médias</li>
+            <li><strong>2017:</strong> Workshop HTML5 CSS</li>
+            <li><strong>2016:</strong> School of Visual Arts New York / Production cinématographique</li>
+            <li><strong>2006 - 2012:</strong> Université UPC / Master en Publicité et Communications</li>
+        </ul>
+
+    <section>
+
+            <h2 id="title3">Expériences Professionnelles</h2>
+            <ul id="lista">
+                <li><strong>Paris College of Art (actuellement) :</strong> Enseignant pour le Master of Fine Arts en Transdisciplinary New Media. En charge de l'enseignement du codage, Arduino, design, TouchDesigner et des outils audiovisuels, en intégrant la vidéo, la programmation et le son dans des projets créatifs.</li>
+                <li><strong>Freelance (Juin 2022 - actuellement):</strong> Graphiste / Monteur : Assistant de direction et monteur vidéo pour les courts-métrages "Dagerman" et "Eurydice", graphiste pour des artistes indépendants.</li>
+                <li><strong>Jellysmack (Juin 2021 - Mars 2022):</strong> Chef de Projet : Élaborer et suivre la stratégie marketing des vidéos de Creators. Supervision des montages finaux. (Facebook Supermission avec 500 000 Subs en 4 mois).</li>
+                <li><strong>Loevenbruck Gallery (2021):</strong> Producteur Assistant : Responsable des installations vidéos et de l'archivage des œuvres d'art.</li>
+                <li><strong>Superpitch (2020):</strong> Vidéaste : Responsable de l'enregistrement et du montage vidéo pour la banque BNP.</li>
+                <li><strong>Avvinue Podcast (2020):</strong> Producteur : Responsable de l'enregistrement du podcast et de la post-production.</li>
+                <li><strong>La Vaca Pintoja (2014 - 2018) :</strong> CEO, fondateur, réalisateur et monteur : Responsable de la direction stratégique et de la production de projets audiovisuels. Expertise dans la coordination avec des agences et des entreprises, développant des solutions créatives et innovantes pour des vidéos percutantes.</li>
+                <li><strong>Canica Films (2008 - 2015) :</strong> Assistant réalisateur : Coordination des activités de production, gestion des budgets et des engagements contractuels, supervision de toutes les étapes de la réalisation vidéo, et communication avec l'agence.</li>        </section>
+    </section>
+
+    <section>
+        <h2 id="title3" >Compétences</h2>
+        <ul id="lista">
+            <li>Bon relationnel</li>
+            <li>Sensibilité artistique</li>
+            <li>Curiosité et polyvalence</li>
+            <li>Graphisme FIGMA</li>
+            <li>Monteur (Premiere Pro)</li>
+            <li>HTML5 / CSS / Web Design</li>
+            <li>Artiste sonore (Ableton)</li>
+            <li>Graphiste (Photoshop / AI / ID)</li>
+            <li>Spark AR</li>
+            <li>Monday, Frame.io</li>
+            <li>Bonne maitrise et compréhension des réseaux sociaux</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2 id="title3">Languages</h2>
+        <ul id="lista">
+            <li>Français - C2</li>
+            <li>Anglais - C2</li>
+            <li>Espagnol - Langue Maternelle</li>
+        </ul>
+    </section>
+
+   
+</div>
+    
+</body>
+</html>
